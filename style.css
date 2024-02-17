@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-image: url(https://th.bing.com/th/id/OIP.U-fMI-T3J4wVdMDJw0kGRQHaEo?rs=1&pid=ImgDetMain);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    
+    font-size: 60px;
+    text-align: center;
+    
+    border: 1px solid;
+    padding: 20px;
+    color: brown;
+    
+}
+.width{
+    
+    margin: 200px 400px 0 400px;
+    
+   
+}
